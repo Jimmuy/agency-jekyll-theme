@@ -11,9 +11,9 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome !!!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: 加油加油！
+    text: 大宝贝你最棒！！！
+    button: opening soon
     buttonlink: "#services"
 
   services:
