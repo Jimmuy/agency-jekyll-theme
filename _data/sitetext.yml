@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: fighting!!!
+    title: FIGHTING
     text: sweetheart，you are the best.
     button: opening soon
     buttonlink: "#services"
